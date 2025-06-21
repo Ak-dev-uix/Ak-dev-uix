@@ -27,8 +27,8 @@ I'm a frontend web developer who loves creating clean, interactive, and responsi
 
 ## 📫 Contact Me
 
-- 📧 Email: [ankit@example.com](mailto:ankit@example.com)  
-- 🐙 GitHub: [github.com/yourusername](https://github.com/yourusername)
+- 📧 Email: [mailto:ag6443964@gmail.com](mailto:ag6443964@gmail.com)  
+- 🐙 GitHub: [github.com/Ak-dev-uix](https://github.com/Ak-dev-uix)
 
 ---
 
