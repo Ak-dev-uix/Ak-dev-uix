@@ -27,7 +27,7 @@ I'm a frontend web developer who loves creating clean, interactive, and responsi
 
 ## 📫 Contact Me
 
-- 📧 Email: [mailto:ag6443964@gmail.com](mailto:ag6443964@gmail.com)  
+- 📧 Email: [ag6443964@gmail.com](mailto:ag6443964@gmail.com)  
 - 🐙 GitHub: [github.com/Ak-dev-uix](https://github.com/Ak-dev-uix)
 
 ---
