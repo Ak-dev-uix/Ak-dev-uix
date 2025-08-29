@@ -1,4 +1,6 @@
-# 👋 Hi, It's developer I'm a frontend web developer who loves creating clean, interactive, and responsive web experiences. I enjoy turning ideas into reality using modern web technologies.
+# 👋 Hi, It's developer 
+
+I'm a frontend web developer who loves creating clean, interactive, and responsive web experiences. I enjoy turning ideas into reality using modern web technologies.
 
 ---
 
