@@ -21,7 +21,8 @@ I'm a frontend web developer who loves creating clean, interactive, and responsi
 - **VS Code**
 - **Git & GitHub**
 - **Netlify / Vercel (for deployment)**
-- **Figma (for UI design)**
+- **Exacildraw (for Flowcharts and wireframes Design)**
+- **Framer (for UI Design)**
 
 ---
 
